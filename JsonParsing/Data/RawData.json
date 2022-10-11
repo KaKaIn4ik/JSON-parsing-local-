@@ -1,0 +1,46 @@
+
+{
+	 "count": 20,
+	 "companyDescription": "Halva",
+	 "lostOfData": [
+		 {
+			 "name": "Alice",
+			 "modelNumber": "11 Pro",
+			 "countries": ["Russia", "Belarus", "Abkhazia"],
+			 "year": 33,
+			 "price": {
+				 "regions": [
+					 {
+						 "name": "Minsk",
+						 "price": 12000
+					 },
+						 {
+							 "name": "Kemerovo",
+							 "price": 7500
+						 }
+				 ]
+			 }
+			 
+		 } ,
+		 {
+			 "name": "Bob",
+			 "modelNumber": "12 Pro",
+			 "countries": ["Germany", "Canada", "Kazakstan"],
+			 "year": 43,
+			 "price": {
+				 "regions": [
+					 {
+						 "name": "Москва",
+						 "price": 1500
+					 } ,
+					 {
+						 "name": "Nyr-Syltan",
+						 "price": 3320
+					 }
+				 ]
+			 }
+			 
+		 }
+	 
+	 ]
+}
